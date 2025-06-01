@@ -7,13 +7,7 @@
 
 ---
 
-##  Learning Objectives
 
-- Apply **event-driven programming** patterns in a C# environment.
-- Design user interfaces using **Windows Forms** controls.
-- Perform full **CRUD operations** (Create, Read, Update, Delete) on a backend database.
-- Handle control events (e.g., button clicks, selection changes).
-- Validate user input and manage exceptions.
 
 ---
 
