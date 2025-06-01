@@ -79,7 +79,7 @@
 ##  Database Schema (Sample)
 
 ### Users
-| UserID | Username | Password |
+| Username | Password |
 |--------|----------|----------|
 
 ### Books
@@ -87,7 +87,7 @@
 |--------|-------|--------|------|------------------|
 
 ### Borrowers
-| BorrowerID | Name | Email | Phone |
+| BorrowerID | Name | Phone |
 |------------|------|-------|-------|
 
 ### IssuedBooks
