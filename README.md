@@ -5,11 +5,7 @@
 
 **MyLibrary** is a Windows Forms (WinForms) application developed in **C#** that allows a small library to manage its **book inventory** and **member borrowing records**. This project demonstrates event-driven programming, GUI design using WinForms, and database operations using **ADO.NET**.
 
----
 
-
-
----
 
 ##  Login Functionality
 
@@ -80,6 +76,7 @@
 
 ### Users
 | Username | Password |
+
 |--------|----------|----------|
 
 ### Books
@@ -88,12 +85,12 @@
 
 ### Borrowers
 | BorrowerID | Name | Phone |
+
 |------------|------|-------|-------|
 
 ### IssuedBooks
 | IssueID | BookID | BorrowerID | IssueDate | DueDate |
 
----
 
 ##  How to Run the Application
 
@@ -129,7 +126,7 @@
 5. Build and Run (`F5`)
 
 6. Login with:
-    - Username: `admin`
+    - Username: `Richo`
     - Password: `1234` (or what’s stored in your `Users` table)
 
 ---
